@@ -1,0 +1,16 @@
+botbuilder-core
+asyncio
+aiohttp
+cookiecutter==1.7.0
+fastmcp
+httpx
+requests
+python-dotenv
+groq
+pytest
+pytest-asyncio
+aiofiles
+pydantic
+asyncio-mqtt
+uvicorn
+asyncio
