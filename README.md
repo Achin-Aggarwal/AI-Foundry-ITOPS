@@ -4,7 +4,7 @@
 
 # Installer_Bot
 
-a bot that echoes back user response
+A bot that echoes back user response
 
 This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
 
